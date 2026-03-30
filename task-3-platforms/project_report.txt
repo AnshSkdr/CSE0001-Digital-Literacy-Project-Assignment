@@ -1,0 +1,5 @@
+For this task, I used HackerRank and Google Forms. On HackerRank, I created an account and completed a beginner-level coding challenge, which helped me understand basic problem-solving and programming concepts. It gave me hands-on practice and improved my logical thinking skills, especially in writing simple and efficient code.
+
+For the collaboration part, I created a Google Form titled “Digital Literacy Awareness Quiz” consisting of five questions, including multiple choice and short answer types. This helped me understand how to design surveys and collect responses effectively. I also explored how responses are automatically organized in Google Sheets, making data analysis easier.
+
+These tools will be very useful for my academic journey. Platforms like HackerRank will help me regularly practice coding and prepare for technical interviews, while Google Forms can be used for surveys, feedback collection, and collaborative projects. Overall, this task helped me gain practical exposure to both coding platforms and productivity tools, which are essential for a computer science student.
